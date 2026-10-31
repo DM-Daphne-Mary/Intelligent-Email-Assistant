@@ -1,0 +1,36 @@
+
+====================================
+Date: 31-10-2026 15:20:15
+Intent: Delivery Issue
+Customer Email: My order has not arrived yet.
+
+Generated Reply:
+Dear Mr. John,
+
+Thank you for contacting us. I regret to learn that your order has not yet arrived. Our logistics team is currently tracking the shipment and will provide you with a detailed status update within the next 24 hours.
+
+Should you have any further questions or concerns in the meantime, please feel free to reply to this message or call our support hotline at 1‑800‑XYZ‑1234.
+
+We appreciate your patience and understanding.
+
+Kind regards,  
+Support Team
+====================================
+
+====================================
+Date: 31-10-2026 15:22:08
+Intent: Delivery Issue
+Customer Email: My order has not arrived yet.
+
+Generated Reply:
+Dear John,
+
+I’m really sorry your order hasn’t arrived yet. I understand how frustrating this can be.
+
+Our logistics team is actively tracking the shipment and will send you a detailed status update within the next 24 hours. To help us resolve this as quickly as possible, could you please confirm your order number and the shipping address on file?
+
+Thank you for your patience and understanding.
+
+Warm regards,  
+Support Team
+====================================
